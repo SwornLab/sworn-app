@@ -60,7 +60,7 @@ interface MongoAttestation {
   timestamp: string;
 }
 
-const EXPLORER_URL = "https://unchained.timeleap.swiss";
+const EXPLORER_URL = "https://unchained.sworn.network";
 const SIGNATURES_URL = `${EXPLORER_URL}/api/unchained/user`;
 
 const SignaturesProvider = ({ children }: SignaturesProviderProps) => {

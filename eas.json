@@ -9,9 +9,9 @@
         "track": "internal"
       },
       "ios": {
-        "appleId": "andrey@timeleap.swiss",
-        "ascAppId": "6737232479",
-        "appleTeamId": "GR6G4D65LM"
+        "appleId": "<APPLE_ID>",
+        "ascAppId": "<ASC_APP_ID>",
+        "appleTeamId": "<APPLE_TEAM_ID>"
       }
     }
   },
